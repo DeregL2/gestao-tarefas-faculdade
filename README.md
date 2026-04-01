@@ -34,15 +34,4 @@ O projeto utiliza uma arquitetura separada, com uma API RESTful no Backend e uma
 * **Vite** (Build tool ultra-rápida)
 * **CSS3** (Estilização moderna com flexbox, transições e responsividade)
 
----
 
-## 🚀 Como executar o projeto na sua máquina
-
-Para rodar este projeto, você precisará ter o **Java (JDK 17 ou superior)** e o **Node.js** instalados na sua máquina.
-
-### 1. Rodando o Backend (Java / Spring Boot)
-Abra o terminal na pasta raiz do projeto (`gestaotarefas`) e execute:
-
-**No Windows:**
-```bash
-.\mvnw spring-boot:run
