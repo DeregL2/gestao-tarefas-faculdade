@@ -32,15 +32,3 @@ O projeto utiliza uma arquitetura separada, com uma API RESTful no Backend e uma
 * **React**
 * **Vite** (Build tool ultra-rápida)
 * **CSS3** (Estilização moderna com flexbox, transições e responsividade)
-
----
-
-## 🚀 Como Executar o Projeto
-
-Certifique-se de ter o **Java/JDK**, o **Maven** e o **Node.js** instalados na sua máquina.
-
-### 1. Rodando o Backend (Spring Boot)
-1. Abra um terminal na pasta do backend.
-2. Execute o comando para iniciar o servidor:
-   ```bash
-   ./mvnw spring-boot:run
